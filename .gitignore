@@ -1,0 +1,12 @@
+bin/
+build/
+out/
+target/
+test-output/
+.classpath
+.project
+.idea/
+.settings/
+*.log
+*.iml
+
